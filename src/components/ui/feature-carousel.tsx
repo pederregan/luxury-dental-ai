@@ -178,7 +178,7 @@ export function FeatureCarousel() {
                   </p>
 
                   {/* Footnote */}
-                  <div className="mt-6 text-sm text-[#1a365d]/50 dark:text-gray-500">
+                  <div className="mt-6 text-sm text-[#d4af37] font-medium">
                     {feature.metric}
                   </div>
 
@@ -297,7 +297,7 @@ export function FeatureCarousel() {
 
                 {/* Metric */}
                 <div className="bg-gray-50 dark:bg-gray-700/30 rounded-2xl p-6 text-center mb-8">
-                  <p className="text-3xl font-semibold text-[#1a365d] dark:text-white">
+                  <p className="text-3xl font-semibold text-[#d4af37]">
                     {features[selectedFeature].metric}
                   </p>
                 </div>
