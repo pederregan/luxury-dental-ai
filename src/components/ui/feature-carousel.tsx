@@ -305,7 +305,7 @@ export function FeatureCarousel() {
                 {/* Actions */}
                 <div className="flex gap-4 justify-center">
                   <motion.button
-                    className="px-8 py-3 bg-[#0066cc] text-white rounded-full font-medium hover:bg-[#0055aa] transition-colors"
+                    className="px-8 py-3 bg-[#1a365d] text-white rounded-full font-medium hover:bg-[#152a49] transition-colors"
                     whileHover={{ scale: 1.02 }}
                     whileTap={{ scale: 0.98 }}
                   >
@@ -313,7 +313,7 @@ export function FeatureCarousel() {
                   </motion.button>
                   <motion.button
                     onClick={() => setSelectedFeature(null)}
-                    className="px-8 py-3 text-[#0066cc] rounded-full font-medium hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
+                    className="px-8 py-3 text-[#1a365d] rounded-full font-medium hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
                     whileHover={{ scale: 1.02 }}
                     whileTap={{ scale: 0.98 }}
                   >
