@@ -1,0 +1,16 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/pricing/page": "app/pricing/page.js",
+  "/company/about/page": "app/company/about/page.js",
+  "/company/press/page": "app/company/press/page.js",
+  "/company/partners/page": "app/company/partners/page.js",
+  "/company/careers/page": "app/company/careers/page.js",
+  "/platform/page": "app/platform/page.js",
+  "/resources/page": "app/resources/page.js",
+  "/solutions/clinical-excellence/page": "app/solutions/clinical-excellence/page.js",
+  "/results/page": "app/results/page.js",
+  "/solutions/operational-efficiency/page": "app/solutions/operational-efficiency/page.js",
+  "/solutions/patient-acquisition/page": "app/solutions/patient-acquisition/page.js",
+  "/solutions/revenue-optimization/page": "app/solutions/revenue-optimization/page.js"
+}
